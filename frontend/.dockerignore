@@ -1,0 +1,21 @@
+# Ignore development files and directories
+node_modules
+.cache
+.next
+out
+
+# Ignore build tools and configuration files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Ignore version control files
+.git
+.gitignore
+
+# Ignore editor-specific files
+.vscode
+.idea
+
+# Ignore test files
+coverage
